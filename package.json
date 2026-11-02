@@ -1,0 +1,10 @@
+{
+  "name": "whisper-house",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A party game of clues, doors and one hidden Mimic.",
+  "scripts": {
+    "serve": "npx serve www",
+    "sync": "npx cap sync"
+  }
+}
